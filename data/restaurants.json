@@ -1,5 +1,6 @@
 [
   {
+    "id": "r1",
     "name": "Test",
     "address": "Test Adress Pupici",
     "cuisine": "German",
@@ -7,6 +8,7 @@
     "description": "Pupici Alina"
   },
   {
+    "id": "r2",
     "name": "Hallo",
     "address": "Hallo Street",
     "cuisine": "Mexican",
@@ -14,6 +16,7 @@
     "description": "Jora"
   },
   {
+    "id": "r3",
     "name": "aaa",
     "address": "aaa",
     "cuisine": "aaa",
@@ -21,10 +24,19 @@
     "description": "aaa"
   },
   {
+    "id": "r4",
     "name": "Test",
     "address": "Hallo Street",
     "cuisine": "German",
     "website": "https://test.com",
     "description": "OOOOOf"
+  },
+  {
+    "name": "Hallo",
+    "address": "asdfsfsfsf",
+    "cuisine": "Georgian",
+    "website": "https://test.com",
+    "description": "Hallluuu",
+    "id": "4a3480fd-90ba-4f00-8967-e1620e04535a"
   }
 ]
