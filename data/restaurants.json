@@ -1,0 +1,30 @@
+[
+  {
+    "name": "Test",
+    "address": "Test Adress Pupici",
+    "cuisine": "German",
+    "website": "https://testgermany.com",
+    "description": "Pupici Alina"
+  },
+  {
+    "name": "Hallo",
+    "address": "Hallo Street",
+    "cuisine": "Mexican",
+    "website": "https://test.com",
+    "description": "Jora"
+  },
+  {
+    "name": "aaa",
+    "address": "aaa",
+    "cuisine": "aaa",
+    "website": "https://test.com",
+    "description": "aaa"
+  },
+  {
+    "name": "Test",
+    "address": "Hallo Street",
+    "cuisine": "German",
+    "website": "https://test.com",
+    "description": "OOOOOf"
+  }
+]
